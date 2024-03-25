@@ -10,7 +10,7 @@ Beshoy Fakhry</a></h1>
 
 - 🔭 I’m currently working in <a href="https://accordbgroup.com/" target="blank">Accord Business Group</a>
 
-- 🌱 I’m currently Working on Mobile App
+- 🌱 I’m currently Working on **Payment system integration** -- **Pepper development** -- **Native mobile development** 
 
 - 🤝 I’m available for freelancing.
 
