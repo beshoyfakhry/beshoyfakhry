@@ -40,6 +40,4 @@ Beshoy Fakhry</a></h1>
  
 ---
 
-Credit: [Beshoy Fakhry](https://github.com/beshoyfakhry/)
-
 Last Edited on: 25/03/2024
