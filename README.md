@@ -20,7 +20,7 @@ Beshoy Fakhry</a></h1>
 
 - 📫 How to reach me **beshoyfakhry@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/beshoyfakhry/beshoyfakhry/blob/master/BeshoyFakhry-AndroidDeveloper.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/beshoyfakhry/beshoyfakhry/blob/master/BeshoyFakhry_SoftwareDeveloper.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
